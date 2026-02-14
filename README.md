@@ -1,3 +1,6 @@
+ไฟล์โปรเจกต์: tictactoe.xlsx
+
+
 ส่วนแสดงผลและรับค่า
 <img width="372" height="375" alt="Screenshot 2026-02-15 023057" src="https://github.com/user-attachments/assets/3bb659df-7cd6-404a-b0ed-95f99c012e57" />
 
